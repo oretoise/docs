@@ -28,14 +28,14 @@ Move your mouse over the calendar icon in the top row.
 
 Click on the Events homepage link.
 
-![]({$ link assets/images/events/events_nav2.png %})
+![]({{site.url}}/assets/images/events/events_nav2.png)
 
 ### Fill out the "New Event" form.
 Click on the "New Event" button. 
 
-![]({% link assets/images/events/new_event_button.png %})
+![]({{site.url}}/assets/images/events/new_event_button.png)
 
 You should see the following form appear.
 
-![]({% link assets/images/events/blank_form.png %})
+![]({{site.url}}/assets/images/events/blank_form.png)
 
