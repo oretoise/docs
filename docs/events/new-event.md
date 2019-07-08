@@ -24,4 +24,4 @@ If you cannot access Slate, contact [Jordan](mailto:jordan.scruggs@msstate.edu) 
 ### Navigate to the Events homepage.
 Move your mouse over the calendar icon in the top row.
 
-![]({{ site.baseurl }}{% link img/events/events_nav.png %})
+![]({{ site.baseurl }}{% link assets/images/events/events_nav.png %})
