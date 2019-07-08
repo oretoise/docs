@@ -107,7 +107,7 @@ Choose a **unique** landing page URL for this. For example, if you are attending
 ### Acquire students
 From here, right-click on the now-customized URL and click "Open Link in New Tab". 
 
-![]({{site.url}}/assets/images/events/url_field.png)
+![]({{site.url}}/assets/images/events/link_new_tab.png)
 
 You should be able to see the form, like so. If you do not, check to make sure you set the dates correctly.
 
