@@ -24,7 +24,7 @@ If you cannot access Slate, contact [Jordan](mailto:jordan.scruggs@msstate.edu) 
 ### Navigate to the Events homepage.
 Move your mouse over the calendar icon in the top row.
 
-![]({% link assets/images/events/events_nav.png %})
+![]({{site.url}}/assets/images/events/events_nav.png)
 
 Click on the Events homepage link.
 
@@ -37,5 +37,5 @@ Click on the "New Event" button.
 
 You should see the following form appear.
 
-![]({% link assets/image/events/blank_form.png %})
+![]({% link assets/images/events/blank_form.png %})
 
