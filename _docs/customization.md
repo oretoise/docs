@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Customization
+permalink: /customization/
 nav_order: 6
 ---
 

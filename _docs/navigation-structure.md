@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Navigation Structure
+published: false
 nav_order: 5
 ---
 
