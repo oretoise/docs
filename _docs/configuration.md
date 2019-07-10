@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Configuration
+permalink: /configuration/
 nav_order: 2
 ---
 
@@ -61,7 +62,7 @@ addEvent(toggleDarkMode, 'click', function(){
 })
 </script>
 
-See [Customization]({{ site.baseurl }}{% link docs/customization.md %}) for more information.
+See [Customization]({{ site.baseurl }}{% link _docs/customization.md %}) for more information.
 
 ## Google Analytics
 
