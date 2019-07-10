@@ -3,6 +3,7 @@ layout: default
 title: Creating a New Event
 description: "How to create a new event in Slate using the CDE Events Template"
 parent: Events
+permalink: /events/new
 nav_order: 1
 ---
 
