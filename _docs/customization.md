@@ -2,6 +2,7 @@
 layout: default
 title: Customization
 permalink: /customization/
+published: false
 nav_order: 6
 ---
 

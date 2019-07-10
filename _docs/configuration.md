@@ -2,6 +2,7 @@
 layout: default
 title: Configuration
 permalink: /configuration/
+published: false
 nav_order: 2
 ---
 
