@@ -25,7 +25,7 @@ You'll need the following data points to create a new event in Slate.
 This will walk you through each step of creating a new event in Slate, setting the appropriate fields, and testing your event form.
 
 ### Login to Slate
-First, login to Slate [here](https://goto.msstate.edu/manage) with your netID and netPassword. If you cannot access Slate, contact [Jordan](mailto:jordan.scruggs@msstate.edu) via email.
+First, login to [Slate](https://goto.msstate.edu/manage) with your netID and netPassword. If you cannot access Slate, contact [Jordan](mailto:jordan.scruggs@msstate.edu) via email.
 
 ### Navigate to the Events homepage.
 Move your mouse over the calendar icon in the top row.
@@ -105,12 +105,12 @@ Click on the "Edit URL" link around the middle of the page.
 
 ![]({{site.url}}{{site.baseurl}}/assets/images/events/edit_url.png)
 
-Choose a **unique** landing page URL for this. For example, if you are attending the 2019 UPCEA conference, choose something like "upcea_2019".
+Choose a **unique** landing page URL for this. You **cannot** have spaces in the URL!  For example, if you are attending the 2019 UPCEA conference, choose something like "upcea_2019".
 
 ![]({{site.url}}{{site.baseurl}}/assets/images/events/url_field.png)
 
 
-### Acquire students
+### Test the Form
 From here, right-click on the now-customized URL and click "Open Link in New Tab". 
 
 ![]({{site.url}}{{site.baseurl}}/assets/images/events/link_new_tab.png)
@@ -123,4 +123,9 @@ If the form is live, copy the URL for the registration page and **email** it to 
 
 ![]({{site.url}}{{site.baseurl}}/assets/images/events/copy_link.png)
 
-While at the event, open the form on an internet-equipped device for prospective students to fill out.
+## Acquire Students
+While the event attendee is present at their booth, simply open the form on an internet-equipped device for prospective students to fill out. Laptops are preferred, but tablets and mobile devices can also work.
+
+
+## Finished!
+Your form should be up and running with its submissions tied back to the event. If you have any questions or something isn't working, contact [Jordan](mailto:jordan.scruggs@msstate.edu) via email.  If any part of this guide is incorrect, let me know and I will update it.
