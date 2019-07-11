@@ -15,6 +15,7 @@ An all-in-one repository for everythng you need for developing communication pla
 [Get started now](#getting-started){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [View it on GitHub](https://github.com/js2506/slate){: .btn .fs-5 .mb-4 .mb-md-0 }
 
 ## Getting started
+This is a collection of files, consisting of a Laravel installation, Python scripts, and current communication plan emails. It is designed to automate as much of the development process as possible, saving time where possible.
 
 ### Dependencies
 
@@ -24,5 +25,6 @@ An all-in-one repository for everythng you need for developing communication pla
 * Some familiarity with Git if you wish to use it.
 
 ## Setup Guide
+If you need to set up a webserver for use with this, follow the [Setup Guide]({% link _docs/comm-plans/setup.md })
 
 ## Scripts
