@@ -25,6 +25,6 @@ This is a collection of files, consisting of a Laravel installation, Python scri
 * Some familiarity with Git if you wish to use it.
 
 ## Setup Guide
-If you need to set up a webserver for use with this, follow the [Setup Guide]({% link _docs/comm-plans/setup.md %})
+If you need to set up a webserver for use with this, follow the [Setup Guide]({% link /docs/comm-plans/setup/ %})
 
 ## Scripts
