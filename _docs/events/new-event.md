@@ -8,9 +8,13 @@ nav_order: 1
 ---
 
 # Creating a New Event
+{: .fs-9 }
 
-## Getting Started
-You'll need the following:
+If someone is attending a conference or event and plans to recruit students, you'll need a Slate form for them to pull up at the event. Prospective students can fill out the form, and their submission is automatically linked back to the event.
+{: .fs-6 .fw-300 }
+
+## Required Information
+You'll need the following data points to create a new event in Slate.
 
 * Event Name (Unique)
 * Start and End dates
@@ -18,20 +22,19 @@ You'll need the following:
 * Event description
 
 ## Creating the Event
+This will walk you through each step of creating a new event in Slate, setting the appropriate fields, and testing your event form.
 
 ### Login to Slate
-First, login to Slate [here](https://goto.msstate.edu/manage) with your netID and netPassword.
-
-If you cannot access Slate, contact [Jordan](mailto:jordan.scruggs@msstate.edu) via email.
+First, login to Slate [here](https://goto.msstate.edu/manage) with your netID and netPassword. If you cannot access Slate, contact [Jordan](mailto:jordan.scruggs@msstate.edu) via email.
 
 ### Navigate to the Events homepage.
 Move your mouse over the calendar icon in the top row.
 
-![]({{site.url}}{{site.baseurl}}{{site.baseurl}}/assets/images/events/events_nav.png)
+![Events Button]({{site.url}}{{site.baseurl}}/assets/images/events/events_nav.png)
 
 Click on the Events homepage link.
 
-![]({{site.url}}{{site.baseurl}}/assets/images/events/events_nav2.png)
+![Link to the Events page.]({{site.url}}{{site.baseurl}}/assets/images/events/events_nav2.png)
 
 ### Fill out the "New Event" form.
 Click on the "New Event" button. 
