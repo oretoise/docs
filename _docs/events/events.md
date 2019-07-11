@@ -17,10 +17,10 @@ Events are found by clicking on the Calendar icon in the top row from within [Sl
 
 ![Events Button]({{site.url}}{{site.baseurl}}/assets/images/events/events_nav.png)
 
-From here, you can see a calendar view of events, whether they are active or still tentative.
+From here, you can see a calendar view of events and whether they are active or still tentative.
 
 ## Registration
-Connecting a prospect to a record has always been a challenge in Recruit and by hand.  Fortunately, Slate makes this process simple. Jordan created a template for all of our events to use. This includes a univeral registration form.  Simply create the event using the template, test it out, and you are good to go.
+Connecting a prospect to a record has always been a challenge in Recruit and by hand.  Fortunately, Slate makes this process simple. Jordan created a template for all of our events to use. This includes a univeral registration form.  Simply create the event using the template, test the form, and you are good to go.
 
 ## Creating New Events
 To create a new event within Slate for CDE usage, follow this [guide](/docs/events/new-event).
