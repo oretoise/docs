@@ -110,12 +110,12 @@ Choose a **unique** landing page URL for this. You **cannot** have spaces in the
 ![]({{site.url}}{{site.baseurl}}/assets/images/events/url_field.png)
 
 
-### Test the Form
+## Test the Form
 From here, right-click on the now-customized URL and click "Open Link in New Tab". 
 
 ![]({{site.url}}{{site.baseurl}}/assets/images/events/link_new_tab.png)
 
-You should be able to see the form, like so. If you do not, check to make sure you set the dates correctly.
+You should be able to see the form, like so. If you do not, check to make sure you set the dates correctly and that you do **not** have spaces in the custom event URL you chose previously.
 
 ![]({{site.url}}{{site.baseurl}}/assets/images/events/event_form.png)
 
