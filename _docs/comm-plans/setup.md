@@ -2,7 +2,7 @@
 layout: default
 title: Setup Guide
 nav_order: 1
-has_children: true
+description: "How to setup systems for communication plan development."
 permalink: /comm-plans/setup/
 ---
 
