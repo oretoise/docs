@@ -16,122 +16,59 @@ To add relevant email communications to a person's record in Slate, you'll use t
 ## Adding an email to a Person Record
 To get started, simply open or select an email from a prospect.
 
-![]()
+![An email from a prospect.]({{site.url}}{{site.baseurl}}/assets/images/misc/outlook/prospect_email.png)
 
 In the Outlook toolbar, click the "Add-Ins" tab.
 
-![]()
+![The Add-Ins tab.]({{site.url}}{{site.baseurl}}/assets/images/misc/outlook/add_ins_tab.png)
 
 Click "Technolutions Slate"
 
-
-
-
-
-
+![The Add-Ins tab.]({{site.url}}{{site.baseurl}}/assets/images/misc/outlook/technolution_button.png)
 
 ### Login to Slate
-First, login to [Slate](https://goto.msstate.edu/manage) with your netID and netPassword. If you cannot access Slate, contact [Jordan](mailto:jordan.scruggs@msstate.edu) via email.
+If you see the following, you'll need to log in to Slate. This can happen due to closing Outlook, restarting your computer, or your session expiring.
 
-### Navigate to the Events homepage.
-Move your mouse over the calendar icon in the top row.
+![The domain prompt.]({{site.url}}{{site.baseurl}}/assets/images/misc/outlook/domain_prompt.png)
 
-![Events Button]({{site.url}}{{site.baseurl}}/assets/images/events/events_nav.png)
+Simply enter ***goto.msstate.edu*** and click Login.
 
-Click on the Events homepage link.
+![The domain prompt.]({{site.url}}{{site.baseurl}}/assets/images/misc/outlook/domain_prompt_2.png)
 
-![Link to the Events page.]({{site.url}}{{site.baseurl}}/assets/images/events/events_nav2.png)
+You will be taken to CAS. Simply enter your netID and netPassword, hit Enter (or click Login), and go through Duo as necessary. You may have to scroll down.
 
-### Fill out the "New Event" form.
-Click on the "New Event" button. 
+### Selecting the Record
+Once logged in, you will see the following:
 
-![]({{site.url}}{{site.baseurl}}/assets/images/events/new_event_button.png)
+![Email details.]({{site.url}}{{site.baseurl}}/assets/images/misc/outlook/email_details.png)
 
-You should see the following form appear.
+Check the "Record" detail. If it says "No matching record found.", click on Relink.
 
-![]({{site.url}}{{site.baseurl}}/assets/images/events/blank_form.png)
+![Relink to record.]({{site.url}}{{site.baseurl}}/assets/images/misc/outlook/relink.png)
 
-Type the name of the event in the "Page Title" field as follows:
+If you need to relink to a prospect record, type in their first and last name, like so:
 
-![]({{site.url}}{{site.baseurl}}/assets/images/events/event_name.png)
+![Relinking to me]({{site.url}}{{site.baseurl}}/assets/images/misc/outlook/relink_me.png)
 
-Open the template list by clicking on the dropdown:
+You should see their name pop up. If they don't exist, close the window, click on Technolutions Slate again, and then click Create Record to create their prospect record right from Outlook.
 
-![]({{site.url}}{{site.baseurl}}/assets/images/events/template_dropdown.png)
+Click on the record result, and the field will update to their name in Slate.
 
-Select the "CDE Events Template".
+![Name update]({{site.url}}{{site.baseurl}}/assets/images/misc/outlook/name_update.png)
 
-![]({{site.url}}{{site.baseurl}}/assets/images/events/template_select.png)
+Finally, click "Add to File".
 
-Open the folder list by clicking on the dropdown:
-
-![]({{site.url}}{{site.baseurl}}/assets/images/events/folder_dropdown.png)
-
-Select the "Distance" folder.
-
-![]({{site.url}}{{site.baseurl}}/assets/images/events/folder_select.png)
-
-Open the status list.
-
-![]({{site.url}}{{site.baseurl}}/assets/images/events/status_dropdown.png)
-
-Set the status to "Confirmed/Active".
-
-![]({{site.url}}{{site.baseurl}}/assets/images/events/status_select.png)
-
-Set the start date by clicking the first field next to "Date":
-
-![]({{site.url}}{{site.baseurl}}/assets/images/events/start_date_select.png)
-
-Set the end date by clicking the field after "until":
-
-![]({{site.url}}{{site.baseurl}}/assets/images/events/end_date_select.png)
-
-Set the deadline to sometime after the event so that you can still register any stragglers.
-
-![]({{site.url}}{{site.baseurl}}/assets/images/events/deadline_date_select.png)
-
-Click the "Location" tab on the top and enter in the event's address.
-
-![]({{site.url}}{{site.baseurl}}/assets/images/events/location.png)
-
-![]({{site.url}}{{site.baseurl}}/assets/images/events/location_data.png)
-
-Click "Save" at the bottom.
-
-![]({{site.url}}{{site.baseurl}}/assets/images/events/save.png)
-
-### Edit the Event URL
-
-You should be taken to the event's details page.
-
-![]({{site.url}}{{site.baseurl}}/assets/images/events/event_details.png)
-
-Click on the "Edit URL" link around the middle of the page.
-
-![]({{site.url}}{{site.baseurl}}/assets/images/events/edit_url.png)
-
-Choose a **unique** landing page URL for this. You **cannot** have spaces in the URL!  For example, if you are attending the 2019 UPCEA conference, choose something like "upcea_2019".
-
-![]({{site.url}}{{site.baseurl}}/assets/images/events/url_field.png)
-
-
-## Test the Form
-From here, right-click on the now-customized URL and click "Open Link in New Tab". 
-
-![]({{site.url}}{{site.baseurl}}/assets/images/events/link_new_tab.png)
-
-You should be able to see the form, like so. If you do not, check to make sure you set the dates correctly and that you do **not** have spaces in the custom event URL you chose previously.
-
-![]({{site.url}}{{site.baseurl}}/assets/images/events/event_form.png)
-
-If the form is live, copy the URL for the registration page and **email** it to anyone attending the event.
-
-![]({{site.url}}{{site.baseurl}}/assets/images/events/copy_link.png)
-
-## Acquire Students
-While the event attendee is present at their booth, simply open the form on an internet-equipped device for prospective students to fill out. Laptops are preferred, but tablets and mobile devices can also work.
+![Adding to their file.]({{site.url}}{{site.baseurl}}/assets/images/misc/outlook/add_to_file.png)
 
 
 ## Finished!
+If all went well, you should see the following success message.
+
+![Success]({{site.url}}{{site.baseurl}}/assets/images/misc/outlook/success.png)
+
+Looking at their Timeline in Slate, you should see the message that you added.
+
+![Timeline in Slate]({{site.url}}{{site.baseurl}}/assets/images/misc/outlook/timeline.png)
+
+
 Your form should be up and running with its submissions tied back to the event. If you have any questions or something isn't working, contact [Jordan](mailto:jordan.scruggs@msstate.edu) via email.  If any part of this guide is incorrect, let me know and I will update it.
