@@ -24,7 +24,7 @@ In the Outlook toolbar, click the "Add-Ins" tab.
 
 Click "Technolutions Slate"
 
-![The Add-Ins tab.]({{site.url}}{{site.baseurl}}/assets/images/misc/outlook/technolution_button.png)
+![The Add-Ins tab.]({{site.url}}{{site.baseurl}}/assets/images/misc/outlook/technolutions_button.png)
 
 ### Login to Slate
 If you see the following, you'll need to log in to Slate. This can happen due to closing Outlook, restarting your computer, or your session expiring.
@@ -70,5 +70,5 @@ Looking at their Timeline in Slate, you should see the message that you added.
 
 ![Timeline in Slate]({{site.url}}{{site.baseurl}}/assets/images/misc/outlook/timeline.png)
 
-
-Your form should be up and running with its submissions tied back to the event. If you have any questions or something isn't working, contact [Jordan](mailto:jordan.scruggs@msstate.edu) via email.  If any part of this guide is incorrect, let me know and I will update it.
+## Questions?
+If you have any questions or something isn't working, contact [Jordan](mailto:jordan.scruggs@msstate.edu) via email.  If any part of this guide is incorrect, let me know and I will gladly update it.
