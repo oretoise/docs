@@ -2,7 +2,8 @@
 layout: default
 title: Outlook Connector for Slate
 description: "How to utilize the Outlook Connector for Slate"
-permalink: /outlook
+parent: Miscellaneous
+permalink: /misc/outlook
 nav_order: 8
 ---
 
