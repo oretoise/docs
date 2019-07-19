@@ -4,7 +4,7 @@ title: Outlook Connector for Slate
 description: "How to utilize the Outlook Connector for Slate"
 parent: Miscellaneous
 permalink: /misc/outlook
-nav_order: 8
+nav_order: 1
 ---
 
 # Using the Outlook Connector for Slate
