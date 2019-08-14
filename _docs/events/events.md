@@ -25,6 +25,9 @@ Connecting a prospect to a record has always been a challenge in Recruit and by 
 ## Creating New Events
 To create a new event within Slate for CDE usage, follow this [guide](/docs/events/new-event).
 
+## Signing someone up afterwards?
+Need to add someone to an event after you get back? Follow the instructions [here](/docs/events/registration-afterward).
+
 ## Retrieving Prospects
 Follow the to-be-created walkthrough on this.
 
