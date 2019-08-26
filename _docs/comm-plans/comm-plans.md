@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Communication Plans
-nav_order: 1
+nav_order: 2
 has_children: true
 permalink: /comm-plans/
 ---
@@ -28,3 +28,4 @@ This is a collection of files, consisting of a Laravel installation, Python scri
 If you need to set up a webserver for use with this, follow the [Setup Guide](/docs/comm-plans/setup)
 
 ## Scripts
+I have written several Python scripts to automate as much as possible when it comes to authoring communication plans and setting them up in Slate.
