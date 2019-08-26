@@ -29,7 +29,7 @@ To create a new event within Slate for CDE usage, follow this [guide](/docs/even
 Need to add someone to an event after you get back? Follow the instructions [here](/docs/events/registration-afterward).
 
 ## Retrieving Prospects
-Follow the to-be-created walkthrough on this.
+If you need to pull a list of prospects from an event, follow these [instructions](/docs/prospects/export/#from-an-event)
 
 ## Questions?
 As always, if you have any questions about using Slate or the Events feature, simply contact [Jordan](mailto:jordan.scruggs@msstate.edu) via email.

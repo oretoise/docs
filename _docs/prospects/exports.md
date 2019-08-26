@@ -2,7 +2,7 @@
 layout: default
 title: Exporting Prospect Data
 nav_order: 2
-has_children: true
+parent: Prospects
 permalink: /prospects/export/
 ---
 
@@ -32,6 +32,33 @@ Click Export. The file will now be downloaded.
 (screenshot)
 
 ## From a Report
+
+## From an Event
+To export prospect data from an Event in Slate, go the Events tab.
+
+(screenshot)
+
+Find the event you wish to pull prospects from.
+
+(screenshot)
+
+Open the event.
+
+(screenshot)
+
+Click on "Export Data" on the right-hand side.
+
+(screenshot)
+
+Select your choice of output. For most things, Excel Spreadsheet is likely what you need.
+
+Click Export.
+
+(screenshot)
+
+The file will now download.
+
+(screenshot)
 
 
 ## Need something more advanced?

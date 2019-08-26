@@ -2,7 +2,7 @@
 layout: default
 title: Removing a Prospect
 nav_order: 3
-has_children: true
+parent: Prospects
 permalink: /prospects/remove/
 ---
 
