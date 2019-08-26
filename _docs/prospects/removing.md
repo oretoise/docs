@@ -1,0 +1,23 @@
+---
+layout: default
+title: Removing a Prospect
+nav_order: 3
+has_children: true
+permalink: /prospects/remove/
+---
+
+# Removing Prospects
+{: .fs-9 }
+
+Do you need to delete a prospect with an undeliverable email addres? Is there a prospect who has been set as distance/online by mistake? Then you're in the right place.
+{: .fs-6 .fw-300 }
+
+## Unsetting a Prospect as Distance
+
+
+
+## Do you need it gone forever?
+Contact [Jordan](mailto:jordan.scruggs@msstate.edu) or the Tech Unit via email with details of which prospect.
+
+Please include their Slate Prospect ID, found in the top right corner of the page, with your request.
+(screenshot)
