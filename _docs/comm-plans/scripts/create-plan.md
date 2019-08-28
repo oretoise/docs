@@ -24,7 +24,7 @@ To start developing a communication plan for a new program, this Python script w
 Make sure you install [Python 3.7](https://www.python.org/downloads/release/python-374/) and run the following commands in a terminal:
 
 ```bash
-pip install pandas
+pip install --upgrade pandas
 ```
 
 ## Usage
