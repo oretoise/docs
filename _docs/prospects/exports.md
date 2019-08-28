@@ -9,7 +9,7 @@ permalink: /prospects/export/
 # Exporting Prospects
 {: .fs-9 }
 
-Prospects, short for prospective students, are records of people who we have information on. They may or may not be interested in the programs we offer. 
+In Slate, you can easily export prospect data into spreadsheets or other file types for reporting, emailing, etc. Here's how to do it.
 {: .fs-6 .fw-300 }
 
 ## From a Query
@@ -23,7 +23,7 @@ Next, click "Run Query"
 
 ![Run Query]({{site.url}}{{site.baseurl}}/assets/images/prospects/run_query.png)
 
-At the top, you can click on Exports, then select the type you want. For most cases, Excel Spreadsheet is probably what you are looking for.
+At the top, you can click on the dropdown for "Output", then select the type you want. For most cases, Excel Spreadsheet is probably what you are looking for.
 
 ![Output Selection]({{site.url}}{{site.baseurl}}/assets/images/prospects/output_selection.png)
 

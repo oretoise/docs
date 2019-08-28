@@ -15,7 +15,7 @@ An all-in-one repository for everythng you need for developing communication pla
 [Get started now](#getting-started){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [View it on GitHub](https://github.com/js2506/slate){: .btn .fs-5 .mb-4 .mb-md-0 }
 
 ## Getting started
-This is a collection of files, consisting of a Laravel installation, Python scripts, and current communication plan emails. It is designed to automate as much of the development process as possible, saving time where possible.
+This is a collection of files, consisting of a Laravel installation, Python scripts, and current communication plan emails. It is designed to automate as much of the development process as possible.
 
 ### Dependencies
 
@@ -28,4 +28,4 @@ This is a collection of files, consisting of a Laravel installation, Python scri
 If you need to set up a webserver for use with this, follow the [Setup Guide](/docs/comm-plans/setup)
 
 ## Scripts
-I have written several Python scripts to automate as much as possible when it comes to authoring communication plans and setting them up in Slate.
+I have written several Python scripts to automate as much as possible when it comes to authoring communication plans and setting them up in Slate. You can find them all [here](/docs/comm-plans/scripts/).
