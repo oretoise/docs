@@ -47,6 +47,10 @@ This will create a directory in `../resources/views/programs/`, named after the 
 
 The file `home.blade.php` will contain a list of emails for you to navigate to easily. The other files are where your email content will live.
 
+The signature argument specifies which file in `../resources/views/signatures/` will be automatically imported into the communication plan. Do note if the file does not exist, Laravel will throw an error, and you will need to create the file.
+
+Upon running the script, you will also see that `../resources/views/home.blade.php` is updated with a link to the plan you just created. 
+
 ## Troubleshooting
 Before creating a communication plan for a program, make sure the old one doesn't exist. If you need to massively revamp an existing plan, I recommend archiving the old plan's directory first. 
 
