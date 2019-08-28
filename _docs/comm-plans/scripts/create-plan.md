@@ -38,12 +38,12 @@ python create_plan.py -a 'mba' -d 0 3 5 7 10 -n 'Master of Business Admin' -s 'm
 
 This will create a directory in `../resources/views/programs/`, named after the acronym provided, containing the following files:
 
-*home.blade.php
-*zero.blade.php
-*three.blade.php
-*five.blade.php
-*seven.blade.php
-*ten.blade.php
+* `home.blade.php`
+* `zero.blade.php`
+* `three.blade.php`
+* `five.blade.php`
+* `seven.blade.php`
+* `ten.blade.php`
 
 The file `home.blade.php` will contain a list of emails for you to navigate to easily. The other files are where your email content will live.
 
