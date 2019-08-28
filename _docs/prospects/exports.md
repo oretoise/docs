@@ -17,21 +17,24 @@ In Slate, as a program coordinator or manager, you already have access to basic 
 
 Simply select the query you need.
 
-(screenshot)
+![Queries]({{site.url}}{{site.baseurl}}/assets/images/prospects/queries.png)
 
 Next, click "Run Query"
 
-(screenshot)
+![Run Query]({{site.url}}{{site.baseurl}}/assets/images/prospects/run_query.png)
 
-At the top, you can click on Exports, then select the type you want. For most cases, Excel is probably what you are looking for.
+At the top, you can click on Exports, then select the type you want. For most cases, Excel Spreadsheet is probably what you are looking for.
 
-(screenshot)
+![Output Selection]({{site.url}}{{site.baseurl}}/assets/images/prospects/output_selection.png)
 
 Click Export. The file will now be downloaded.
 
-(screenshot)
+![Export]({{site.url}}{{site.baseurl}}/assets/images/prospects/export.png)
 
 ## From a Report
+Reports function a bit differently than standard queries. As such, it is not a simple task to export data from them to spreadsheets, but if you would like to share their results, exporting to PDF is straightforward.
+
+Go to the report. You'll find these under the Queries / Report tab up top.
 
 ## From an Event
 To export prospect data from an Event in Slate, go the Events tab.
