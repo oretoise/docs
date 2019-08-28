@@ -26,7 +26,7 @@ For walkthroughs on how to do various things in Slate, look to the menu on the l
 
 ![Slate Scholar]({{site.url}}{{site.baseurl}}/assets/images/slate_scholar.png)
 
-### Developing communication plans?
+## Developing communication plans?
 Follow the guides on the [Communication Plans](/docs/comm-plans/) page to set up the repository with scripts and other automations.
 
 ## I need more help!
