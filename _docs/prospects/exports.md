@@ -36,33 +36,50 @@ Reports function a bit differently than standard queries. As such, it is not a s
 
 Go to the report. You'll find these under the Queries / Report tab up top.
 
+![Queries / Reports Tab]({{site.url}}{{site.baseurl}}/assets/images/prospects/queries_tab.png)
+
+Click on the Reports link on the right-hand side.
+
+![Reports Link]({{site.url}}{{site.baseurl}}/assets/images/prospects/reports_link.png)
+
+Select the report you wish to download as a PDF.
+
+![Report Selection]({{site.url}}{{site.baseurl}}/assets/images/prospects/report_selection.png)
+
+Click "Export to PDF" on the right-hand side.
+
+![Report Selection]({{site.url}}{{site.baseurl}}/assets/images/prospects/export_pdf.png)
+
+You can save the PDF, download it, email it, etc. from your web browser.
+
 ## From an Event
 To export prospect data from an Event in Slate, go the Events tab.
 
-(screenshot)
+![Events Button]({{site.url}}{{site.baseurl}}/assets/images/events/events_nav.png)
 
-Find the event you wish to pull prospects from.
+Click on the Events homepage link.
 
-(screenshot)
+![Link to the Events page.]({{site.url}}{{site.baseurl}}/assets/images/events/events_nav2.png)
+
+Find the event you wish to pull prospects from and select it. We will use the August 2019 Toyota Education Fair for an example.
+
+![Event Selection]({{site.url}}{{site.baseurl}}/assets/images/prospects/event_selection.png)
 
 Open the event.
 
-(screenshot)
+![Event Page]({{site.url}}{{site.baseurl}}/assets/images/prospects/event_page.png)
 
 Click on "Export Data" on the right-hand side.
 
-(screenshot)
+![Export Data]({{site.url}}{{site.baseurl}}/assets/images/prospects/export_data_button.png)
 
 Select your choice of output. For most things, Excel Spreadsheet is likely what you need.
 
-Click Export.
+![Output Selection]({{site.url}}{{site.baseurl}}/assets/images/prospects/event_output_selection.png)
 
-(screenshot)
+Click Export. The file will now download.
 
-The file will now download.
-
-(screenshot)
-
+![Export Button]({{site.url}}{{site.baseurl}}/assets/images/prospects/event_export.png)
 
 ## Need something more advanced?
 Contact [Jordan](mailto:jordan.scruggs@msstate.edu) or the Tech Unit via email with details of what exactly you need.
