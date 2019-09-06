@@ -35,7 +35,7 @@ Be warned, to use the script effectively, you need to meet several prerequisites
 
 * Each numbered email file has an `<h3>` tag containing the text `<h3>Day __ - Subject: <YOUR SUBJECT HERE></h3>`.
 * You have made the population in Slate. See [this page]() for details.
-* You have opened Slate on the leftmost monitor in a maximized web browser.
+* You have opened Slate on the leftmost monitor in a maximized web browser at 120% zoom.
 * You have the necessary permissions in Slate to create and send Deliver mailings.
 
 From a terminal prompt, navigate to the scripts folder in your local copy of the repository, then run the follow command with the parameter you need.
