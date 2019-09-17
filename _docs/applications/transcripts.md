@@ -10,6 +10,12 @@ permalink: /applications/transcripts/
 # How to Evaluate Transcripts in Slate
 While this will hopefully change in the future, this details the current process for evaluating transcripts for transfer applicants in Slate. It involves downloading the transcript PDF, marking it up in Adobe Acrobat Pro, then uploading the evaluated transcript into Slate. Doing this also allows you to input data that speaks to Banner's system, SOAPCOL.
 
+## Table of contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
 ## 1. Looking up the Applicant's Record
 Say you are reviewing an application in the Reader, like so:
 
@@ -85,5 +91,20 @@ Highlighting text works exactly the same as the red-line tool. Simply select the
 ![Red line tool]({{site.url}}{{site.baseurl}}/assets/images/applications/evaluating-transcripts/highlighter.png)
 
 ## 4. Talking to SOAPCOL
+From a person record in Slate, like so:
+
+![A view of the Person Record, application tab.]({{site.url}}{{site.baseurl}}/assets/images/applications/evaluating-transcripts/application_view.png)
+
+Click on the Profile tab. This should have a listing of their prior schools.
+
+![Profile tab]({{site.url}}{{site.baseurl}}/assets/images/applications/evaluating-transcripts/person_record_profile_tab.png)
+
+For the transcript you evaluated, select the respective school.
+
+![Selecting the school]({{site.url}}{{site.baseurl}}/assets/images/applications/evaluating-transcripts/select_school.png)
+
+This will bring up the Edit form for that institution. From here you can add the ADMR code, the recalculated GPA, etc.
+
+![Institution Edit Form]({{site.url}}{{site.baseurl}}/assets/images/applications/evaluating-transcripts/institution_edit_form.png)
 
 ## 5. Uploading an "MSU Evalutated Transcript"
