@@ -13,6 +13,12 @@ nav_order: 1
 If someone is attending a conference or event and plans to recruit students, you'll need a Slate form for them to pull up at the event. Prospective students can fill out the form, and their submission is automatically linked back to the event.
 {: .fs-6 .fw-300 }
 
+## Table of contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
 ## Required Information
 You'll need the following data points to create a new event in Slate.
 

@@ -13,6 +13,12 @@ nav_order: 2
 Say you need to add prospects to an event after the event is over. Slate makes this very easy, but there are several pitfalls. Read on to see where to go.
 {: .fs-6 .fw-300 }
 
+## Table of contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
 ## 1. Pull up the event in Slate.
 Simply login to [Slate](https://goto.msstate.edu/manage) with your netID and netPassword. If you cannot access Slate, contact [Jordan](mailto:jordan.scruggs@msstate.edu) via email.
 
