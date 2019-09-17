@@ -35,6 +35,8 @@ color_scheme: nil
 # Google Analytics Tracking (optional)
 # e.g, UA-1234567-89
 
+footer_content: "Copyright &copy; 2019 Jordan Scruggs, Center for Distance Education, Mississippi State University."
+
 plugins:
   - jekyll-seo-tag
 
