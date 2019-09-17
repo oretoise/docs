@@ -11,6 +11,8 @@ permalink: /comm-plans/scripts/create-plan/
 # Generating a Skeleton Communication Plan
 To start developing a communication plan for a new program, this Python script will generate a program homepage file and a Blade file for each day specified. Once these are created, simply add in the email-specific content.
 
+---
+
 ## Arguments
 
 | Flag | Description | Example |

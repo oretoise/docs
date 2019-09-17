@@ -11,6 +11,8 @@ permalink: /comm-plans/scripts/batch-scripts/
 # Batch Operations
 This article describes all the scripts starting with "batch" in their filename. These are used when multiple plans need to be updating, uploaded, or deleted. As with doing anything in bulk, verify the basic scripts work for you before doing things in bulk. You don't want to end up with more work than what you started with.
 
+---
+
 ## Arguments
 All of these scripts take a single argument: a list of plans in CSV format.
 

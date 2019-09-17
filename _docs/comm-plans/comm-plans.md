@@ -14,14 +14,15 @@ An all-in-one repository for everythng you need for developing communication pla
 
 [Get started now](#getting-started){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [View it on GitHub](https://github.com/js2506/slate){: .btn .fs-5 .mb-4 .mb-md-0 }
 
+---
+
 ## Getting started
 This is a collection of files, consisting of a Laravel installation, Python scripts, and current communication plan emails. It is designed to automate as much of the development process as possible.
 
 ### Dependencies
 
 * A webserver. I personally use a LAMP (Linux-Apache-PHP-MySQL) stack on a Dell 990 for this. It doesn't need anything powerful.
-* A text editor, with or without integrated Git support. I use VS Code.
-* A development environment. I use Laragon on a Windows 10 host.
+* A text editor, with or without integrated Git support. I use [VS Code](https://code.visualstudio.com/).
 * Some familiarity with Git if you wish to use it.
 
 ## Setup Guide

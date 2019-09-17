@@ -8,8 +8,10 @@ description: "Uploading a Communication Plan"
 permalink: /comm-plans/scripts/upload-plan/
 ---
 
-# Generating a Skeleton Communication Plan
-Once you've added email-specific content to each of the email files, you can upload the new communication plan into Slate. 
+# Uploading a Communication Plan
+Once you've added email-specific content to each of the email files, you can upload the new communication plan into Slate.
+
+---
 
 ## Arguments
 
