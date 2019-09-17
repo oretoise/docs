@@ -8,7 +8,16 @@ permalink: /prospects/add/
 ---
 
 # Adding Prospects to Slate
+{: .no_toc }
 There are several ways to add new prospects to Slate, but the important part is to set things up correctly so that you always know where they originally came from. This is crucial in determining ad campaign and event performance.
+
+## Table of contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
 
 ## Methods
 The following is a list of methods to add new prospects to Slate directly or to provide a way for people to add themselves via landing pages or inquiry forms.

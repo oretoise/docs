@@ -7,10 +7,18 @@ permalink: /prospects/export/
 ---
 
 # Exporting Prospects
-{: .fs-9 }
+{: .no_toc }
 
-In Slate, you can easily export prospect data into spreadsheets or other file types for reporting, emailing, etc. Here's how to do it.
+In Slate, you can easily export prospect data into spreadsheets or other file types for reporting, emailing, etc.
 {: .fs-6 .fw-300 }
+
+## Table of contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
 
 ## From a Query
 In Slate, as a program coordinator or manager, you already have access to basic program-based queries. If you need to put together a mailing list, these are more than sufficient. 

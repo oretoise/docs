@@ -7,10 +7,18 @@ permalink: /prospects/
 ---
 
 # Prospects in Slate
-{: .fs-9 }
+{: .no_toc }
 
 Prospects, short for prospective students, are records of people who we have information on. They may or may not be interested in the programs we offer. 
 {: .fs-6 .fw-300 }
+
+## Table of contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
 
 ## Records
 All prospect records contain the following general fields:
@@ -26,4 +34,4 @@ Distance/Online prospects contain the following additional data:
 Todo: convert this to table...
 
 ## Adding Prospects
-See the [Adding Prospects](/docs/prospects/add)
+See the [Adding Prospects](/docs/prospects/add) page.
