@@ -19,7 +19,7 @@ Say you need to add prospects to an event after the event is over. Slate makes t
 1. TOC
 {:toc}
 
-## 1. Pull up the event in Slate.
+## Pull up the event in Slate.
 Simply login to [Slate](https://goto.msstate.edu/manage) with your netID and netPassword. If you cannot access Slate, contact [Jordan](mailto:jordan.scruggs@msstate.edu) via email.
 
 Next, click on the Events tab up top.
@@ -30,7 +30,7 @@ From the calendar view, click on the event you wish to register someone for.
 
 ![Events Listing]({{site.url}}{{site.baseurl}}/assets/images/events/events_listing.png)
 
-## 2. Verify the Event.
+## Verify the Event.
 Ensure that the event you clicked on is:
 
 * One of our events. It should be using the "CDE Events Template".
@@ -38,7 +38,7 @@ Ensure that the event you clicked on is:
 
 ![Verify you chose the right event!]({{site.url}}{{site.baseurl}}/assets/images/events/event_verify.png)
 
-## 3. Fill out the Form.
+## Fill out the Form.
 Click on the "New Registration" link underneath "Registrants".
 
 ![New Registration Link]({{site.url}}{{site.baseurl}}/assets/images/events/new_registration.png)
