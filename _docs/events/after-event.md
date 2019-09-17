@@ -19,6 +19,8 @@ Say you need to add prospects to an event after the event is over. Slate makes t
 1. TOC
 {:toc}
 
+---
+
 ## Pull up the event in Slate.
 Simply login to [Slate](https://goto.msstate.edu/manage) with your netID and netPassword. If you cannot access Slate, contact [Jordan](mailto:jordan.scruggs@msstate.edu) via email.
 

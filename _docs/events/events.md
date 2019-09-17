@@ -12,6 +12,8 @@ permalink: /events/
 The Events features in Slate help us track everything revolving around conferences, community college fairs, and much more that our program coordinators attend.  Perhaps the most important is keeping track of the prospective students gained at these events and watching their movement through the funnel. 
 {: .fs-6 .fw-300 }
 
+---
+
 ## Events
 Events are found by clicking on the Calendar icon in the top row from within [Slate](https://goto.msstate.edu/manage).
 

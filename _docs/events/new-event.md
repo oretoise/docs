@@ -19,6 +19,8 @@ If someone is attending a conference or event and plans to recruit students, you
 1. TOC
 {:toc}
 
+---
+
 ## Required Information
 You'll need the following data points to create a new event in Slate.
 

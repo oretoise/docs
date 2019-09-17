@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Creating a Communication Plan
+title: Generating a Communication Plan
 nav_order: 1
 parent: Scripts
 grand_parent: Communication Plans

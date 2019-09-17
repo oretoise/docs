@@ -17,6 +17,8 @@ While this will hopefully change in the future, this details the current process
 1. TOC
 {:toc}
 
+---
+
 ## Looking up the Applicant's Record
 Say you are reviewing an application in the Reader, like so:
 
