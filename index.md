@@ -12,8 +12,6 @@ permalink: /
 Need help in Slate? You've come to the right place. Here you'll find instructions, guides, and support for doing anything in Slate.
 {: .fs-6 .fw-300 }
 
-[Get started now](#getting-started){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [View the Repository](https://github.com/js2506/slate){: .btn .fs-5 .mb-4 .mb-md-0 }
-
 ---
 
 ## Getting started
