@@ -50,7 +50,7 @@ python create_plan.py -a 'mba'
 
 The script will need some time to complete, as it has to click its way through Slate. Once finished, you will have a set of emails in Slate in `/Distance/MBA` under Deliver.
 
-![Red line tool]({{site.url}}{{site.baseurl}}/assets/images/applications/evaluating-transcripts/mba_mail_listing.png)
+![MBA Emails]({{site.url}}{{site.baseurl}}/assets/images/scripts/mba_mail_listing.png)
 
 These emails will be live, so be sure they're 100% ready before you run the script.
 
