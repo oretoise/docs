@@ -59,13 +59,30 @@ In Chrome, the download button looks like this:
 Either one will launch a traditional Save As dialog. Select your download location and hit Save.
 
 ## 3. Evaluating using Adobe Acrobat Pro.
-This guide is not meant to replace Admissions' process for evaluating transcripts, merely to show you the tools in Acrobat to make it possible. 
+This guide is not meant to replace Admissions' process for evaluating transcripts, merely to show you the tools in Acrobat to make it possible. You can find these tools under the "Comment" menu on the right-hand side.
+
+![Acrobat's Comment Tools]({{site.url}}{{site.baseurl}}/assets/images/applications/evaluating-transcripts/comment_tools.png)
 
 ### a. Red Line Tool
+To mark through courses with a red line, use the red line tool, located here:
+
+![Red line tool]({{site.url}}{{site.baseurl}}/assets/images/applications/evaluating-transcripts/red_line.png)
+
+With the tool active, highlight the text you want to mark through.
 
 ### b. Text Box
+To add text, select the text-box tool. Click where you want to begin typing, then type your text.
+
+![Text box tool]({{site.url}}{{site.baseurl}}/assets/images/applications/evaluating-transcripts/text_box.png)
+
+To change fonts, text color, and size, use the small "Add Text Comment" window/box that appears:
+
+![Add text comment window]({{site.url}}{{site.baseurl}}/assets/images/applications/evaluating-transcripts/add_text_comment.png)
 
 ### c. Highlighter
+Highlighting text works exactly the same as the red-line tool. Simply select the highlighter and highlight the text.
+
+![Red line tool]({{site.url}}{{site.baseurl}}/assets/images/applications/evaluating-transcripts/highlighter.png)
 
 ## 4. Talking to SOAPCOL
 
