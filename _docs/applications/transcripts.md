@@ -8,6 +8,7 @@ permalink: /applications/transcripts/
 ---
 
 # How to Evaluate Transcripts in Slate
+{: .no_toc }
 While this will hopefully change in the future, this details the current process for evaluating transcripts for transfer applicants in Slate. It involves downloading the transcript PDF, marking it up in Adobe Acrobat Pro, then uploading the evaluated transcript into Slate. Doing this also allows you to input data that speaks to Banner's system, SOAPCOL.
 
 ## Table of contents

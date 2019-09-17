@@ -8,7 +8,7 @@ nav_order: 2
 ---
 
 # Registering Prospects after an Event
-{: .fs-9 }
+{: .no_toc }
 
 Say you need to add prospects to an event after the event is over. Slate makes this very easy, but there are several pitfalls. Read on to see where to go.
 {: .fs-6 .fw-300 }

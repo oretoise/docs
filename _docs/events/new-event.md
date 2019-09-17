@@ -8,7 +8,7 @@ nav_order: 1
 ---
 
 # Creating a New Event
-{: .fs-9 }
+{: .no_toc }
 
 If someone is attending a conference or event and plans to recruit students, you'll need a Slate form for them to pull up at the event. Prospective students can fill out the form, and their submission is automatically linked back to the event.
 {: .fs-6 .fw-300 }
