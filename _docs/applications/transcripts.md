@@ -108,3 +108,20 @@ This will bring up the Edit form for that institution. From here you can add the
 ![Institution Edit Form]({{site.url}}{{site.baseurl}}/assets/images/applications/evaluating-transcripts/institution_edit_form.png)
 
 ## 5. Uploading an "MSU Evalutated Transcript"
+From the person record in Slate, select either the Application or Materials tab, like so:
+
+![The materials list]({{site.url}}{{site.baseurl}}/assets/images/applications/evaluating-transcripts/materials_list.png)
+
+Select "New Material".
+
+![The materials list]({{site.url}}{{site.baseurl}}/assets/images/applications/evaluating-transcripts/new_material.png)
+
+This will bring up the material uploader. The **important** part here is that you change Record to the school.
+
+![Material Uploader]({{site.url}}{{site.baseurl}}/assets/images/applications/evaluating-transcripts/material_uploader.png)
+
+![Material Uploader]({{site.url}}{{site.baseurl}}/assets/images/applications/evaluating-transcripts/material_uploader_select.png)
+
+This will allow you to select "MSU Evaluated Transcript" for the Material choice. Simply select your evaluated transcript file using the Browse button, and hit Upload.
+
+![Material Uploader]({{site.url}}{{site.baseurl}}/assets/images/applications/evaluating-transcripts/material_uploader_done.png)
