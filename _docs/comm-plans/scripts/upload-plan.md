@@ -34,8 +34,8 @@ HOST="YOUR_WEBSERVER_IP_ADDRESS_HERE"
 Be warned, to use the script effectively, you need to meet several prerequisites:
 
 * Each numbered email file has an `<h3>` tag containing the text `<h3>Day __ - Subject: <YOUR SUBJECT HERE></h3>`.
-* You have made the population in Slate. See [this page]() for details.
-* You have opened Slate on the leftmost monitor in a maximized web browser at 120% zoom.
+* You have made the population in Slate and added it to `populations.csv`. See [this page]() for details.
+* You have opened Slate on the leftmost monitor in a maximized Firefox window at 120% zoom.
 * You have the necessary permissions in Slate to create and send Deliver mailings.
 
 From a terminal prompt, navigate to the scripts folder in your local copy of the repository, then run the follow command with the parameter you need.
@@ -46,7 +46,11 @@ We will use MBA as an example.
 python create_plan.py -a 'mba'
 ```
 
-TODO: What this script results in.
+The script will need some time to complete, as it has to click its way through Slate. Once finished, you will have a set of emails in Slate in `/Distance/MBA` under Deliver.
+
+![Red line tool]({{site.url}}{{site.baseurl}}/assets/images/applications/evaluating-transcripts/mba_mail_listing.png)
+
+These emails will be live, so be sure they're 100% ready before you run the script.
 
 ## Troubleshooting
 Before creating a communication plan for a program, make sure the old one doesn't exist. If you need to massively revamp an existing plan, I recommend archiving the old plan's directory first. 
