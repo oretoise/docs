@@ -125,3 +125,5 @@ This will bring up the material uploader. The **important** part here is that yo
 This will allow you to select "MSU Evaluated Transcript" for the Material choice. Simply select your evaluated transcript file using the Browse button, and hit Upload.
 
 ![Material Uploader]({{site.url}}{{site.baseurl}}/assets/images/applications/evaluating-transcripts/material_uploader_done.png)
+
+You are done! On to the next one!
