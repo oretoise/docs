@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Evaluating Transcripts
-nav_order: 1
+nav_order: 2
 parent: Applications
 description: "Downloading, Evaluating, and Importing Transcripts"
 permalink: /applications/transcripts/
