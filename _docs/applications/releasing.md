@@ -92,7 +92,7 @@ If there are some to be released, check the checkboxes next to each one (or use 
 
 You must then choose a date and time for the decisions to be released at.
 
-![Date and time selection]({{site.url}}{{site.baseurl}}/assets/images/applications/release/decisions_checked.png)
+![Date and time selection]({{site.url}}{{site.baseurl}}/assets/images/applications/release/date_selection.png)
 
 For the time, enter a time like so: `1:00pm`. Keep in mind everything in Slate is in Eastern Time.
 
