@@ -55,7 +55,7 @@ Click the Filter button:
 
 From the Local Filters group, click "Ready for Release":
 
-![The "Ready to Release" filter]({{site.url}}{{site.baseurl}}/assets/images/applications/release/ready_to_release.png.png)
+![The "Ready to Release" filter]({{site.url}}{{site.baseurl}}/assets/images/applications/release/ready_to_release.png)
 
 Click Continue:
 
