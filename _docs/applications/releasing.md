@@ -8,7 +8,9 @@ permalink: /applications/release/
 ---
 
 # Releasing Ready Decisions
-To start developing a communication plan for a new program, this Python script will generate a program homepage file and a Blade file for each day specified. Once these are created, simply add in the email-specific content.
+Once a decision has been made and a decision letter assigned, an application has a couple more steps before it's ready.  ITS automatically pulls new decisions from Slate into Banner daily.  Once those have been matched to a student record (whether new or prior), ITS pushes the MSU 9-digit ID and netID back into Slate.  From there, we can then release the decision to the applicant.  
+
+Simply follow this guide to release ready decisions for Campus 5.
 
 ---
 
