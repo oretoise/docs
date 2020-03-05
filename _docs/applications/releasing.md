@@ -82,5 +82,30 @@ If there are none, this is what it will display:
 
 ![No decisions to release.]({{site.url}}{{site.baseurl}}/assets/images/applications/release/no_decisions.png)
 
+Otherwise, Slate will display the list of decisions that are ready to be released.  Like so:
+
+![Available decisions]({{site.url}}{{site.baseurl}}/assets/images/applications/release/decision_list.png)
+
+If there are some to be released, check the checkboxes next to each one (or use the very top checkbox).
+
+![Selected decisions]({{site.url}}{{site.baseurl}}/assets/images/applications/release/decisions_checked.png)
+
+You must then choose a date and time for the decisions to be released at.
+
+![Date and time selection]({{site.url}}{{site.baseurl}}/assets/images/applications/release/decisions_checked.png)
+
+For the time, enter a time like so: `1:00pm`. Keep in mind everything in Slate is in Eastern Time.
+
+Finally, click Release.
+
+![The big gray Release button]({{site.url}}{{site.baseurl}}/assets/images/applications/release/release_button.png)
+
+Slate will ask you to confirm.  Take a moment and make sure you've selected the right decision letter(s), added the "Ready to Release" filter, checked the decisions, and verified the date and time.  If all is well, click OK.
+
+![Are you sure prompt]({{site.url}}{{site.baseurl}}/assets/images/applications/release/confirm.png)
+
+### Finished
+You are all done, and the decisions will be released at the time specified.
+
 ## Questions?
 Feel free to contact [Jordan](mailto:jordan.scruggs@msstate.edu) or the Tech Unit via email.
