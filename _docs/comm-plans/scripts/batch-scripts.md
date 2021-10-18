@@ -52,6 +52,8 @@ In addition, you will need to create an environment file, `.env`, in the scripts
 HOST="YOUR_WEBSERVER_IP_ADDRESS_HERE"
 ```
 
+The last dependency to be aware of is that `batch_update.py` uses the hotkey combination `win`+`1` to open up a browser. Ensure that your preferred browser is the first item on your taskbar, as this is a neccessary for the hotkeys to execute the intended operation.
+
 ## Usage
 Before running this script remember to verify that the associated single program script works for your configurations. 
 
