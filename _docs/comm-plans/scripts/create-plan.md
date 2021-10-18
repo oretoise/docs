@@ -15,12 +15,12 @@ To start developing a communication plan for a new program, this Python script w
 
 ## Arguments
 
-| Flag | Description | Example |
-|:--- |:--- |:---|
-| -a | Plan acronym. Must match website subdirectory. | `mba` |
-| -d | Days in list form. | `0 3 5 7 10` |
-| -n | Program name. | `Master of Business Admin` |
-| -s | Signature file to use. | `mjimerson` |
+| Flag | Description                                    | Example                    |
+| :--- | :--------------------------------------------- | :------------------------- |
+| -a   | Plan acronym. Must match website subdirectory. | `mba`                      |
+| -d   | Days in list form.                             | `0 3 5 7 10`               |
+| -n   | Program name.                                  | `Master of Business Admin` |
+| -s   | Signature file to use.                         | `mjimerson`                |
 
 ## Dependencies
 Make sure you install [Python 3.7](https://www.python.org/downloads/release/python-374/) and run the following commands in a terminal:
@@ -30,9 +30,9 @@ pip install --upgrade pandas
 ```
 
 ## Usage
-From a terminal prompt, navigate to the scripts folder in your local copy of the repository, then run the follow command with the parameters you need. 
+From a terminal prompt, navigate to the scripts folder in your local copy of the repository, then run the following command with your desire parameters. 
 
-We will use MBA as an example.
+We will use the MBA program as an example.
 
 ```bash
 python create_plan.py -a 'mba' -d 0 3 5 7 10 -n 'Master of Business Admin' -s 'mjimerson'

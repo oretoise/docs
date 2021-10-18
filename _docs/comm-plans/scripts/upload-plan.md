@@ -15,12 +15,12 @@ Once you've added email-specific content to each of the email files, you can upl
 
 ## Arguments
 
-| Flag | Description | Example |
-|:--- |:--- |:---|
-| -a | Plan acronym. Must match website subdirectory. | `mba` |
+| Flag | Description                                    | Example |
+| :--- | :--------------------------------------------- | :------ |
+| -a   | Plan acronym. Must match website subdirectory. | `mba`   |
 
 ## Dependencies
-Make sure you install [Python 3.7](https://www.python.org/downloads/release/python-374/) and run the following commands in a terminal:
+Make sure you install [Python 3](https://www.python.org/downloads/) and run the following commands in a terminal:
 
 ```bash
 pip install --upgrade pandas pyautogui pyperclip requests python-dotenv
