@@ -9,9 +9,7 @@ permalink: /comm-plans/scripts/check-links/
 ---
 
 # Check links
-This script audits the validity of each link sent out in a communication plan email. Each programs' communication plan emails are checked to ensure that the link is secure, not outdatated and does not return a 404 error. This script should be run prior to sending out emails to prospective students so we can be sure that all of the links that we send out to prospects work as intended.
-
----
+This script audits the validity of each link sent out for a program's Communication Plan. Each emails in a program's communication plan is checked to ensure that the link is secure, not outdatated, and does not return a 404 error. This script should be run prior to sending out emails to prospective students so we can be sure that all links sent to prospects work as intended.
 
 ## Arguments
 This script takes no arguments
@@ -31,11 +29,10 @@ In addition, you will need to create an environment file, `.env`, in the scripts
 HOST="YOUR_WEBSERVER_IP_ADDRESS_HERE"
 ```
 
-This script refrences other folders within the slate repository so if running of this script is attempted outside of the Slate repository directory it will output error
-messages. `utilities.py` is an essential helper file that needs to be in the same working directory of this script. 
+This script refrences other folders within the slate repository so if running of this script is attempted outside of the Slate repository, it will output errors. `utilities.py` is an essential helper file that needs to be in the same working directory as this script. 
 
 ## Usage
-Running of this script is rather simple after fulfilling all of the dependencies. Navigate to the directory of this script in a terminal and run the following command:
+Running of this script is rather simple after fulfilling all of the dependencies. Navigate to the script’s directory in a terminal and run the following command:
 
 ```bash
 python check_links_py

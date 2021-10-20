@@ -40,7 +40,7 @@ Be warned, to use the script effectively, you need to meet several prerequisites
 * You have opened Slate on the leftmost monitor in a maximized Firefox window at 120% zoom.
 * You have the necessary permissions in Slate to create and send Deliver mailings.
 
-From a terminal prompt, navigate to the scripts folder in your local copy of the repository, then run the follow command with the parameter you need.
+From a terminal prompt, navigate to the scripts folder in your local copy of the repository, then run the following command with your program parameter.
 
 We will use MBA as an example.
 

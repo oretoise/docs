@@ -60,7 +60,7 @@ Before running this script remember to verify that the associated single program
 Once you have the single program script working, you're a couple steps away from executing your batch task. 
 
 * List the programs that you'd like to edit into a `.csv` file and save it in the same directory as the batch script. 
-* Navigate to the script's direcotry in a terminal and run the following command:
+* Navigate to the script's directory in a terminal and run the following command:
 
 ```bash
 python <Batch_Task_Script_Here>.py -l list_of_programs.csv
