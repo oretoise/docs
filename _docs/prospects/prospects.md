@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Prospects
-nav_order: 3
+nav_order: 4
 has_children: true
 permalink: /prospects/
 ---
@@ -9,7 +9,7 @@ permalink: /prospects/
 # Prospects in Slate
 {: .no_toc }
 
-Prospects, short for prospective students, are records of people who we have information on. They may or may not be interested in the programs we offer. 
+Prospects, short for prospective students, are records of people who we have information on. They may or may not be interested in the programs we offer.
 {: .fs-6 .fw-300 }
 
 ## Table of contents

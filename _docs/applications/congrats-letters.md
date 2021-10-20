@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Sending Congrats Letters
-nav_order: 5
+nav_order: 6
+parent: Applications
 permalink: /applications/congrats-letters/
 ---
 

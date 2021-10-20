@@ -44,7 +44,7 @@ Reports function a bit differently than standard queries. As such, it is not a s
 
 Go to the report. You'll find these under the Queries / Report tab up top.
 
-![Queries / Reports Tab]({{site.url}}{{site.baseurl}}/assets/images/prospects/queries_tab.png)
+![Queries / Reports Tab]({{site.url}}{{site.baseurl}}/assets/images/prospects/query_tab.png)
 
 Click on the Reports link on the right-hand side.
 
@@ -71,7 +71,7 @@ Click on the Events homepage link.
 
 Find the event you wish to pull prospects from and select it. We will use the August 2019 Toyota Education Fair for an example.
 
-![Event Selection]({{site.url}}{{site.baseurl}}/assets/images/prospects/event_selection.png)
+![Event Selection]({{site.url}}{{site.baseurl}}/assets/images/prospects/events_selection.png)
 
 Open the event.
 
