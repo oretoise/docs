@@ -6,11 +6,12 @@ has_children: true
 permalink: /reports/
 ---
 
-# Example Page
-{: .fs-9 }
+# Reports
+{: .fs-9 } 
 
-Applications in Slate are designed to be as self-service as possible, allowing applicants an experience that is as frictionless as possible. For us, it means automated email communications, less administrative work, less time spent on changes to the application, and more.
+Reporting is an essential function to making supported, data backed decisions about everything that the CDE does. There are two sources of report generation that is used by the CDE, built-in Slate Reports and Python generated reports.  
 {: .fs-6 .fw-300 }
 
 ## Doing Things with Apps
-These pages detail how to do various things dealing with applicants and application data.
+These pages detail how and when to generate reports in Slate and using Python scripts. 
+
