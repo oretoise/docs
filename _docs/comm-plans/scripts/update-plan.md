@@ -18,7 +18,6 @@ permalink: /comm-plans/scripts/update-plan/
 | Flag | Description                                                    | Example |
 | :--- | :------------------------------------------------------------- | :------ |
 | -a   | Plan acronym. Must match website subdirectory.                 | `mba`   |
-| :--- | :---------------------------------------------                 | :------ |
 | -s   | Skip first _ emails. **Optional** Integer value, 0 is default. | `3`     |
 
 
@@ -26,7 +25,7 @@ permalink: /comm-plans/scripts/update-plan/
 Make sure you install [Python 3](https://www.python.org/downloads/) and run the following commands in a terminal:
 
 ```bash
-pip install --upgrade pyautogui pyperclip requests argparse beautifulsoup4
+pip install --upgrade pyautogui pyperclip requests beautifulsoup4
 ```
 
 In addition, you will need to create an environment file, `.env`, in the scripts folder containing the following data:

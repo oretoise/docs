@@ -9,7 +9,7 @@ permalink: /comm-plans/scripts/batch-scripts/
 ---
 
 # Batch Operations
-This article describes all the scripts starting with "batch" in their filename. These are used when multiple plans need to be updated, uploaded, or deleted. As with doing anything in bulk, verify the basic scripts work for you before doing things in bulk. You don't want to end up with more work than what you started with.
+This article describes all the scripts starting with "batch" in their filename. These are used when multiple communication plans need to be updated, uploaded, or deleted. As with doing anything in bulk, verify the basic scripts work for you before executing these bulk scripts. You don't want to end up with more work than what you started with!
 
 ---
 
@@ -52,7 +52,7 @@ In addition, you will need to create an environment file, `.env`, in the scripts
 HOST="YOUR_WEBSERVER_IP_ADDRESS_HERE"
 ```
 
-The last dependency to be aware of is that `batch_update.py` uses the hotkey combination `win`+`1` to open up a browser. Ensure that your preferred browser is the first item on your taskbar, as this is a neccessary for the hotkeys to execute the intended operation.
+The last dependency to be aware of is that `batch_update.py` uses the hotkey combination `win`+`1` to open up a browser. Ensure that your preferred browser is the first item on your taskbar, as this is neccessary for the hotkeys to execute the intended operation.
 
 ## Usage
 Before running this script remember to verify that the associated single program script works for your configurations. 
@@ -67,6 +67,11 @@ python <Batch_Task_Script_Here>.py -l list_of_programs.csv
 ```
 
 This script will take some time to complete, as it is navigating through the user interface of Slate with a pause between each action.   
+
+## Troubleshooting
+Script is not working? Make sure your system meets all of the listed dependencies and that you have performed the neccessary prerequisites listed in the usage section. We recommend reading the associated single program script documentation and ensureing that your system meets all of the dependencies listed there.
+
+If you have any other errors, Python and the script's messages printed to the terminal should guide you on fixing the error.
 
 ## Questions?
 Feel free to contact [Jordan](mailto:jordan.scruggs@msstate.edu) or the Tech Unit via email.

@@ -9,7 +9,7 @@ permalink: /comm-plans/scripts/check-links/
 ---
 
 # Check links
-This script audits the validity of each link sent out for a program's Communication Plan. Each emails in a program's communication plan is checked to ensure that the link is secure, not outdatated, and does not return a 404 error. This script should be run prior to sending out emails to prospective students so we can be sure that all links sent to prospects work as intended.
+This script audits the validity of each link sent out for a program's Communication Plan. Each email in a program's communication plan is checked to ensure that the link is secure, not outdatated, and does not return a 404 error.
 
 ## Arguments
 This script takes no arguments
@@ -35,10 +35,15 @@ This script refrences other folders within the slate repository so if running of
 Running of this script is rather simple after fulfilling all of the dependencies. Navigate to the script’s directory in a terminal and run the following command:
 
 ```bash
-python check_links_py
+python check_links.py
 ```
 
-Keep an eye on your terminal as this script is executing. There should be nothing printed out to the terminal in the case that all of the links in the communication plans work. If there is an issue with a link, the issue will be printed to the terminal followed by the faulty url.
+Keep an eye on your terminal as this script is executing.  in the case that all of the links work there should be nothing printed out to the terminal. If there is an issue with a link, the issue will be printed to the terminal followed by the faulty url.
+
+## Troubleshooting
+Script is not working? Make sure your system meets all of the listed dependencies and that you have performed the neccessary prerequisites listed in the usage section.
+
+If you have any other errors, Python and the script's messages printed to the terminal should guide you on fixing the error.
 
 ## Questions?
 Feel free to contact [Jordan](mailto:jordan.scruggs@msstate.edu) or the Tech Unit via email.
