@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Example
+title: Reports
 nav_order: 5
 has_children: true
-permalink: /example/
+permalink: /reports/
 ---
 
 # Example Page
