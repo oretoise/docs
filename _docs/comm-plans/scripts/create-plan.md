@@ -30,7 +30,7 @@ pip install --upgrade pandas
 ```
 
 ## Usage
-From a terminal prompt, navigate to the scripts folder in your local copy of the repository, then run the following command with your desire parameters. 
+From a terminal prompt, navigate to the scripts folder in your local copy of the repository, then run the following command with your desired parameters. 
 
 We will use the MBA program as an example.
 
