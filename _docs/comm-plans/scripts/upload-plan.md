@@ -29,7 +29,7 @@ pip install --upgrade pandas pyautogui pyperclip requests python-dotenv
 In addition, you will need to create an environment file, `.env`, in the scripts folder containing the following data:
 
 ```bash
-HOST="YOUR_WEBSERVER_IP_ADDRESS_HERE"
+HOST="YOUR_WEBSERVER_IP_ADDRESS_OR_FQDN_HERE"
 ```
 
 ## Usage
@@ -57,7 +57,7 @@ These emails will be live, so be sure they're 100% ready before you run the scri
 ## Troubleshooting
 Before creating a communication plan for a program, make sure the old one doesn't exist. If you need to massively revamp an existing plan, I recommend archiving the old plan's directory first. 
 
-Make sure to install [Python 3.7](https://www.python.org/downloads/release/python-374/) and use `pip` to install [Pandas](https://pandas.pydata.org/) and other dependencies.
+Make sure to install [Python 3](https://www.python.org/downloads/) and use `pip` to install [Pandas](https://pandas.pydata.org/) and other dependencies.
 
 If there are any other errors, the script (or Python itself) should let you know.
 

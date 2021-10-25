@@ -49,7 +49,7 @@ pip install --upgrade pandas pyautogui pyperclip requests python-dotenv
 In addition, you will need to create an environment file, `.env`, in the scripts folder containing the following data:
 
 ```bash
-HOST="YOUR_WEBSERVER_IP_ADDRESS_HERE"
+HOST="YOUR_WEBSERVER_IP_ADDRESS_OR_FQDN_HERE"
 ```
 
 The last dependency to be aware of is that `batch_update.py` uses the hotkey combination `win`+`1` to open up a browser. Ensure that your preferred browser is the first item on your taskbar, as this is neccessary for the hotkeys to execute the intended operation.
@@ -69,7 +69,7 @@ python <Batch_Task_Script_Here>.py -l list_of_programs.csv
 This script will take some time to complete, as it is navigating through the user interface of Slate with a pause between each action.   
 
 ## Troubleshooting
-Script is not working? Make sure your system meets all of the listed dependencies and that you have performed the neccessary prerequisites listed in the usage section. We recommend reading the associated single program script documentation and ensureing that your system meets all of the dependencies listed there.
+Script not working? Make sure your system meets all of the listed dependencies and that you have performed the neccessary prerequisites listed in the usage section. We recommend reading the associated single program script documentation and ensureing that your system meets all of the dependencies listed there.
 
 If you have any other errors, Python and the script's messages printed to the terminal should guide you on fixing the error.
 

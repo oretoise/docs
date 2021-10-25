@@ -33,4 +33,4 @@ The following is a list of methods to add new prospects to Slate directly or to 
 ### File Import
 
 ## What Not to Do
-Because so many things in Slate depend on the 'Distance Student' field being set, adding a prospect via the "New Person" form (screenshot) is inadvisable. It will add the prospect, but you will not see them in our populations, your queries, etc.
+Because so many things in Slate depend on the 'Campus' field being set to 'Online Education', adding a prospect via the "New Person" form (screenshot) is inadvisable. It will add the prospect, but you will not see them in our populations, your queries, etc.
