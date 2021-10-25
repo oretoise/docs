@@ -20,8 +20,6 @@ Need to change a prospect's program, entry term, or opt them out of emails or te
 ---
 
 ## Data Points
-The following is a list of methods to add new prospects to Slate directly or to provide a way for people to add themselves via landing pages or inquiry forms.
-
 For everything except opting someone out of email communications, you'll need to click on "Edit Record" in the top right, when viewing a record.
 
 ![Edit Record]({{site.url}}{{site.baseurl}}/assets/images/prospects/edit_record.png)
@@ -29,13 +27,30 @@ For everything except opting someone out of email communications, you'll need to
 ### Changing Program / Communication Plan
 Once you see the Edit Form, scroll down to Academic Information, and you'll see the program drop-down list.
 
-![Edit Record]({{site.url}}{{site.baseurl}}/assets/images/prospects/academic_programs.png)
+![List of programs]({{site.url}}{{site.baseurl}}/assets/images/prospects/academic_programs.png)
 
+Simply select the new program or programs (hold Ctrl to select multiple), and click Update at the bottom.
+
+![Update Record]({{site.url}}{{site.baseurl}}/assets/images/prospects/update_record.png)
 ### Anticipated Entry Term
+To change the anticipated entry term, simply select the new one from the Entry Term drop-down.
+
+![Entry Term Select]({{site.url}}{{site.baseurl}}/assets/images/prospects/entry_term.png)
+
+Then click Update at the bottom.
+
+![Update Record]({{site.url}}{{site.baseurl}}/assets/images/prospects/update_record.png)
 
 ### Opting Out of Emails
+To opt someone out of email communications, open their record, and under Tags, click the Opt Out tag.
+
+![Opt Out Tag]({{site.url}}{{site.baseurl}}/assets/images/prospects/opt_out.png)
 
 ### Opting out of Text Messages (SMS)
+To opt someone out of receiving text messages, select Edit Record in the top right, then set "Text Message (SMS)" to "No".
 
-## What Not to Do
-Because so many things in Slate depend on the 'Campus' field being set to 'Online Education', adding a prospect via the "New Person" form (screenshot) is inadvisable. It will add the prospect, but you will not see them in our populations, your queries, etc.
+![Text Opt Out]({{site.url}}{{site.baseurl}}/assets/images/prospects/text_opt_out.png)
+
+Then click Update at the bottom.
+
+![Update Record]({{site.url}}{{site.baseurl}}/assets/images/prospects/update_record.png)
