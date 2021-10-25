@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Removing a Prospect
-nav_order: 3
+nav_order: 4
 parent: Prospects
 permalink: /prospects/remove/
 ---

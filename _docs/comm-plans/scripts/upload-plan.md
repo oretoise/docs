@@ -29,7 +29,7 @@ pip install --upgrade pandas pyautogui pyperclip requests python-dotenv
 In addition, you will need to create an environment file, `.env`, in the scripts folder containing the following data:
 
 ```bash
-HOST="YOUR_WEBSERVER_IP_ADDRESS_HERE"
+HOST="YOUR_WEBSERVER_IP_ADDRESS_OR_FQDN_HERE"
 ```
 
 ## Usage

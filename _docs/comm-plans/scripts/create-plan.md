@@ -23,7 +23,7 @@ To start developing a communication plan for a new program, this Python script w
 | -s   | Signature file to use.                         | `mjimerson`                |
 
 ## Dependencies
-Make sure you install [Python 3.7](https://www.python.org/downloads/release/python-374/) and run the following commands in a terminal:
+Make sure you install [Python 3](https://www.python.org/downloads/) and run the following commands in a terminal:
 
 ```bash
 pip install --upgrade pandas
@@ -56,7 +56,7 @@ Upon running the script, you will also see that `../resources/views/home.blade.p
 ## Troubleshooting
 Before creating a communication plan for a program, make sure the old one doesn't exist. If you need to massively revamp an existing plan, I recommend archiving the old plan's directory first. 
 
-Make sure to install [Python 3.7](https://www.python.org/downloads/release/python-374/) and use `pip` to install [Pandas](https://pandas.pydata.org/).
+Make sure to install [Python 3](https://www.python.org/downloads/) and use `pip` to install [Pandas](https://pandas.pydata.org/).
 
 If there are any other errors, the script (or Python itself) should let you know.
 
