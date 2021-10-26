@@ -51,7 +51,7 @@
 
     &.active {
       &::before {
-        color: $body-text-color;
+        color: $link-color;
       }
     }
   }
