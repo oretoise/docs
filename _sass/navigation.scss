@@ -5,7 +5,7 @@
 .site-title {
   display: block;
   flex: 1 1 auto;
-  color: $body-heading-color;
+  color: $white;
   background-color: $sidebar-color;
 
   @include mq(md) {
@@ -43,9 +43,9 @@
 
     &::before {
       position: absolute;
-      margin-top: 0.3em;
+      margin-top: 0.1em;
       margin-left: -0.8em;
-      color: rgba($body-text-color, 0.3);
+      color: $white;
       content: "- ";
     }
 
@@ -58,11 +58,11 @@
 }
 
 .navigation-list-item {
-  @include fs-4;
+  @include fs-7;
   margin: 0;
 
   @include mq(md) {
-    @include fs-3;
+    @include fs-5;
   }
 
   .navigation-list-child-list {
@@ -83,7 +83,7 @@
 
   &.active {
     font-weight: 600;
-    color: $body-heading-color;
+    color: $white;
     text-decoration: none;
   }
 }
