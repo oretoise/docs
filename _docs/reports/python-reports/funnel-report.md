@@ -25,12 +25,14 @@ This report takes in Prospect and Application data from slate and outputs a pivo
 | -a   | Applications `.csv` file preferrably exported from Slate | `applicants.csv` |
 | -p   | Prospects `.csv` file preferrably exported from Slate    | `prospects.csv`  |
 
-For these `.csv` files the data dimensions exported are meaningful, below is a list of the columns that should be included in these files.
+For these `.csv` files the data dimensions exported are meaningful. Below is a list of the columns that should be included in these files.
+
 `applicants.csv`:
+
 `prospects.csv`:
 
 ## Dependencies
-Make sure you install [Python 3](https://www.python.org/downloads/) and run the following commands in a terminal:
+Make sure you install [Python 3](https://www.python.org/downloads/) and run the following command in a terminal:
 
 ```bash
 pip install --upgrade numpy pandas
@@ -38,6 +40,7 @@ pip install --upgrade numpy pandas
 This script refrences information contained in supporting `colleges.csv` and `programs.csv` files for formatting of the associated namesake. Make sure to have files titled as such in the working directory of this script when executing.
 
 The `colleges.csv` should contain
+
 The `programs.csv` should contain
 
 ## Usage
