@@ -8,7 +8,7 @@ permalink: /reports/python-r/event-report
 ---
 
 # Event Report
-The goal of the Event report is to report key metrics about events hosted by the CDE. The questions that this report answers are:
+The goal of the Event Report is to report key metrics about events hosted by the CDE. The questions that this report answers are:
 
 * How many events were held online within a specified date range?
 * How many people attended each event?
