@@ -32,7 +32,8 @@
 
 // Edits color of just navigation links
 a.navigation-list-link{
-  color: lighten($link-color, 30%);
+  color: $nav-child-link-color
+  // color: lighten($link-color, 30%);
 }
 
 .navigation-list-child-list {
@@ -40,7 +41,8 @@ a.navigation-list-link{
   list-style: none;
 
   .navigation-list-link {
-    color: $nav-child-link-color;
+    color: lighten($link-color, 35%);
+    // color: $nav-child-link-color;
   }
 
   .navigation-list-item {
@@ -56,7 +58,7 @@ a.navigation-list-link{
 
     &.active {
       &::before {
-        color: $link-color;
+        color: $white;
       }
     }
   }
@@ -89,7 +91,7 @@ a.navigation-list-link{
   &.active {
     font-weight: 600;
     color: $white;
-    text-decoration: none;
+    text-decoration: underline;
   }
 }
 
