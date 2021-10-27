@@ -37,7 +37,7 @@ Make sure you install [Python 3](https://www.python.org/downloads/) and run the 
 ```bash
 pip install --upgrade numpy pandas
 ```
-This script refrences information contained in supporting `colleges.csv` and `programs.csv` files for formatting of the associated namesake. Make sure to have files titled as such in the working directory of this script when executing.
+This script refrences information contained in supporting `colleges.csv` and `programs.csv` files for formatting of the associated namesake. Make sure to have files with these titles in the working directory of this script when executing. 
 
 The `colleges.csv` should contain
 
