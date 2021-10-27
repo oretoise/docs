@@ -30,6 +30,11 @@
   }
 }
 
+// Edits color of just navigation links
+a.navigation-list-link{
+  color: lighten($link-color, 30%);
+}
+
 .navigation-list-child-list {
   padding-left: $sp-3;
   list-style: none;
