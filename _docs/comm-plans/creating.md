@@ -13,6 +13,7 @@ permalink: /comm-plans/creating/
 * The URL for the program website. 
 
 ## Creating the Skeleton
+Once you know the acronym or URL segment for the program, simply run the [Plan Generation script](/comm-plans/scripts/create-plan/).
 
 ## Filling in Content
 
