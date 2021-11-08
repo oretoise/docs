@@ -9,11 +9,14 @@ nav_order: 2
 
 # The List
 
+## In Progress
 * [Setup Guide](/docs/comm-plans/setup)
 * [Creating a Comm Plan](/docs/comm-plans/creating/)
-* [Deleting an Event](/docs/events/delete)
 * [Adding prospects](/docs/prospects/add/)
 * [Removing prospects](/docs/prospects/remove/)
+
+## To Do
+* [Deleting an Event](/docs/events/delete)
 * [Updating App Emails](/docs/applications/emails/)
 * [Rules]()
 * [What to do with a new program]()
